@@ -25,7 +25,8 @@
   JavaScript: Lógica de geração de senhas e manipulação do DOM.
 
 ### 📷 Demonstração
-Adicione aqui uma imagem (screenshot) ou um GIF demonstrando o gerador de senhas em funcionamento.
+
+![](https://github.com/waallbatista/geradordesenha/blob/master/assets/Captura%20de%20tela%202025-05-06%20173249.png)
 
 ### 📂 Como Executar o Projeto
   1.Clone o repositório:
