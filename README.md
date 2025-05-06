@@ -6,6 +6,7 @@
 
 ### 📌 Descrição
   Este projeto é um gerador de senhas aleatórias desenvolvido com HTML, CSS e JavaScript. Ele permite que o usuário gere senhas seguras e personalizadas, escolhendo o comprimento e os tipos de caracteres a serem incluídos.
+  
     🔗 [Clique aqui](https://waallbatista.github.io/geradordesenha/) para acessar o projeto online.
 
 ### 🚀 Funcionalidades
